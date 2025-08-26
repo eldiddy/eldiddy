@@ -5,11 +5,11 @@
 - 🎓 Soy estudiante de **5to año de Ingeniería Civil Eléctrica ⚡** en la Universidad de Chile.  
 - 🔭 Siempre me gustó la idea de una doble titulación; primero lo intenté con Astronomía, pero luego descubrí que mi verdadera pasión estaba en **la ciencia de datos**.  
 - 💻 Esto lo descubri el verano pasado, cuando realicé mi primera práctica profesional en el **Advanced Mining Technology Center (AMTC)**, lugar donde trabajo hasta el dia de hoy.  
-- 📚 Me interesan los proyectos relacionados el **Machine Learning** y el **Deep Learning**:  
+- 📚 Me interesan los proyectos relacionados al **Machine Learning** y **Deep Learning**, he trabajado con los siguientes modelos a lo largo de la carrera:  
   - *Machine Learning*: SVM, Random Forest, Clasificadores de Bayes, Clustering, etc.  
   - *Deep Learning*: CNN, MLP.  
 - 🤖 Además, me gusta mucho la **Robótica**, he trabajado con **Gazebo** y **Rviz**,integrandolos con las nuevas versiones de ROS2. El semestre pasado trabaje en el desarrollo de la simulación de una aspiradora robot!  
-- 🎮 Además, tengo varios hobbies: **Pokémon TCG**, **Mangas & Anime**, **Cine** (Buxefiano Promedio).  
+- 🎮 En mi vida externa a la ciencia de datos, tengo varios hobbies: **Pokémon TCG**, **Mangas & Anime**, **Cine** (Buxefiano Promedio).  
 
 ---
 
